@@ -1,1 +1,1 @@
-bundle check || bundle install
+--require helper.rb --format d --color
