@@ -1,9 +1,0 @@
-#!/bin/bash
-
-function aginst
-{
-  sudo apt-get -qy --force-yes install "$@"
-}
-
-which xvfb-run &> /dev/null || aginst xvfb
-
