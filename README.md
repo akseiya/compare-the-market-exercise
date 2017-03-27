@@ -9,6 +9,7 @@ Remote Git repository considerations are outside scope. Whichever way the code h
 2. Bundler
 3. Google Chrome
 4. XVFB
+5. bash
 
 ## Running the tests
 The `spec` script provided in root directory of the repo is intended to run the test suite in virtual framebuffer, producing results as text output in the terminal.
